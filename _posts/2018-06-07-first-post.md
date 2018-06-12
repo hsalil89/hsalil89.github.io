@@ -3,5 +3,5 @@ layout: post
 title: "First post - Disclaimer"
 date: 2018-06-11
 ---
-
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+After much procrastination I have finally started compiling my portfolio of data science and data analytics related projects. 
+Data science is such a vast field and my masters degree in Data Science, though a very well curated and taught course at  <a href="https://www.sice.indiana.edu/graduate/degrees/data-science/" Indiana University's School of Information and Copmuting></a> still ended up being an introduction to Data Science. With no real world experience in applying the advanced ML algorithms that I learned during MS, I wanted to co 
